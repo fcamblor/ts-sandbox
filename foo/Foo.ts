@@ -1,8 +1,6 @@
 
 
-export interface IFoo {
-    blah: string;
-}
+import {IFoo} from "./FooTypes";
 
 export class ConcreteFoo implements IFoo {
     blah: string;
