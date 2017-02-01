@@ -1,0 +1,14 @@
+{
+  "name": "ts-sandbox",
+  "version":"0.1-SNAPSHOT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "2.1.5"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "watch": "tsc --watch -p ."
+  }
+}

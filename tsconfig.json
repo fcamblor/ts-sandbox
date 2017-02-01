@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "outFile": "out/app.js",
+    "sourceMap": true,
+    "inlineSourceMap": false,
+    "inlineSources": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
