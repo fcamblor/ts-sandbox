@@ -1,5 +1,7 @@
 
 
+import {IFoo} from "./foo/Foo";
+
 declare interface IApp {
     foo(): IFoo;
 }
